@@ -1,7 +1,7 @@
 // Name: Image
-// ID: orguImage
+// ID: lmsImage
 // Description: Display images from URLs.
-// By: Orange <https://orangestd.cn/>
+// By: YourName <https://yourprofile.link/>
 // License: MIT AND LGPL-3.0
 
 /* generated l10n code */
@@ -108,7 +108,7 @@ class ImageExtension{
 
     getInfo() {
       return {
-        id: "orguImage",
+        id: "lmsImage",
         color1: "#FF4081",
         name: Scratch.translate("Image"),
         blocks: [
